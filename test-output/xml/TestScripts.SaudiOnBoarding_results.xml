@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="OnBoarding"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="27.417">
+  <properties />
+  
+  
+            <testcase name="testNonSaudireferal" time="15.423" classname="TestScripts.SaudiOnBoarding" />
+                <testcase name="testHomePage" time="1.653" classname="TestScripts.SaudiOnBoarding" />
+                <testcase name="testSaudiCheck" time="4.862" classname="TestScripts.SaudiOnBoarding" />
+                <testcase name="testEnterOTP" time="5.479" classname="TestScripts.SaudiOnBoarding" />
+      
+</testsuite>
